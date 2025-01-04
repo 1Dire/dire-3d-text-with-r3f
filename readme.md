@@ -1,4 +1,4 @@
-
+배포 : https://dire-3d-text-with-r3f.vercel.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
